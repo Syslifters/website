@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://www.syslifters.com/en</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/images/hero.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/target-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/bulb-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/team-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/thumb-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/references/Trust_IT_logo.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/references/wu_wien_logo.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/references/ikarus_logo.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/references/RKNOE_Logo.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/references/vbv_gruppe_logo.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/contact</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/kontakt" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/contact" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/kontakt" />
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/imprint</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/impressum" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/imprint" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/impressum" />
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentesting-in-austria</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/pentesting-in-oesterreich" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/pentesting-in-austria" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/pentesting-in-oesterreich" />
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentesting-in-germany</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/pentesting-in-deutschland" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/pentesting-in-germany" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/pentesting-in-deutschland" />
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentesting-in-switzerland</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/pentesting-in-der-schweiz" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/pentesting-in-switzerland" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/pentesting-in-der-schweiz" />
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/privacy</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/datenschutz" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/privacy" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/datenschutz" />
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/team</loc>
+        <lastmod>2026-07-09T11:25:28Z</lastmod>
+        <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.syslifters.com/team" />
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.syslifters.com/en/team" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.syslifters.com/team" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/aron.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/christoph.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/michael.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/patrick.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/matthaeus.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/leonard.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/reinhard.jpg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/team/samuel.jpg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentests/active-directory</loc>
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/active-directory" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/active-directory" hreflang="de-AT" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/en/pentests/active-directory" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/target-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/rocket-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/file-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/clock-blue.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentests/attack-detection</loc>
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/attack-detection" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/attack-detection" hreflang="de-AT" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/en/pentests/attack-detection" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/target-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/rocket-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/file-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/clock-blue.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentests/entra-azure</loc>
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/entra-azure" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/entra-azure" hreflang="de-AT" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/en/pentests/entra-azure" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/target-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/rocket-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/file-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/clock-blue.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentests/external-infrastructure</loc>
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/external-infrastructure" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/external-infrastructure" hreflang="de-AT" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/en/pentests/external-infrastructure" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/target-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/rocket-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/file-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/clock-blue.svg</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://www.syslifters.com/en/pentests/web-applications</loc>
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/web-applications" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/pentests/web-applications" hreflang="de-AT" />
+        <xhtml:link rel="alternate" href="https://www.syslifters.com/en/pentests/web-applications" hreflang="en-US" />
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/target-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/rocket-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/file-blue.svg</image:loc>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.syslifters.com/assets/icons/clock-blue.svg</image:loc>
+        </image:image>
+    </url>
+</urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.2.2 at 2026-07-31T16:13:16.089Z -->

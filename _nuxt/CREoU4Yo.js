@@ -1,0 +1,1 @@
+const s={name:"Syslifters GmbH"},t={sysreptor:"https://sysreptor.com",sysleaks:"https://sysleaks.com",handbookAssetsBase:"https://handbook.syslifters.com/assets",email:"hello@syslifters.com",social:{github:"https://github.com/syslifters/",linkedin:"https://www.linkedin.com/company/syslifters",twitter:"https://twitter.com/syslifters"}};export{t as e,s};
