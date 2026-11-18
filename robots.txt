@@ -1,0 +1,9 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Allow: /en/
+Content-Signal: search=yes, ai-input=yes, ai-train=no
+
+Sitemap: https://www.syslifters.com/sitemap.xml
+Sitemap: https://www.syslifters.com/sitemap_index.xml
+# END nuxt-robots
